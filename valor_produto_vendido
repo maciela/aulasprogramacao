@@ -12,4 +12,4 @@ VT = PT - (PT*porcentagem)
 VT2 = round(VT, 2)
 print("O produto escolhido foi:", Produto, "e o valor total da venda é:", VT2)
 
-## VU == Valor unitário and D == Desconto
+## VU == Valor unitário and D == Desconto and PT= Preço total and VT = Valor total
